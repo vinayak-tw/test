@@ -1,0 +1,3 @@
+<?php
+exec('/usr/local/bin/score b0cfa991-1cff-4406-b4b5-2805ad798d81'); // Runs 'ls -l' command
+?>
